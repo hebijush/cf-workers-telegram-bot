@@ -8,7 +8,7 @@ serverless telegram bot on cf workers
 
 The original `worker.js` is the content of Nikhil John's
 https://github.com/nikhiljohn10/telegram-bot-worker which is licensed with MIT.
-My modifications are licensed under the Apache license.
+My modifications are licensed underz the Apache license.
 
 The first bot configuration is fully featured, and responds to all received
 messages with llama2 if a command isn't found.
